@@ -18,7 +18,7 @@
 
 💼 Completed my Summer Internship as a Cloud Data Engineer at Nutanix, US 🇺🇸, optimizing cloud APIs, Kubernetes clusters, and enhancing system performance.
 
-🔦 Check out my Bento [here](http://bento.me/hey-ravi)
+🔦 Check out my LinkTree [here](https://linktr.ee/hey_ravi)
 
 ⚡ Hobbies - racket sports 🏸🎾🏓, music 🎸, cooking 🧑‍🍳, and engaging in thoughtful conversations.
 
@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/ravi-rajpurohit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="http://bento.me/hey-ravi" target="_blank">
+  <a href="https://linktr.ee/hey_ravi" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=bento&logoColor=white"/>
   </a>
 </div>
