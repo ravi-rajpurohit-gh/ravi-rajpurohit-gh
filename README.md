@@ -1,10 +1,10 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ravi-rajpurohit-gh.ravi-rajpurohit-gh" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ravi+Rajpurohit!;Data+Infrastructure+Engineer;I+build+data+at+scale." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ravi+Rajpurohit!;I+do+Data+Engineering;I+do+Infrastructure+As+A+Code;I+do+Data+Analytics;" />
 </h1>
 
-<h3 align="center">Data Infrastructure Engineer &nbsp;·&nbsp; Pipelines · Analytics · Visualizations &nbsp;·&nbsp; AWS · dbt · Spark</h3>
+<h3 align="center"> · Data · Infrastructure · Analytics · </h3>
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 🎓 &nbsp;**MS Computer Science**, University of Texas at Arlington.
 
-✍️ &nbsp;I write about data engineering and visualization on [Medium](https://ravi-rajpurohit.medium.com/) · All links at [linktr.ee/hey_ravi](https://linktr.ee/hey_ravi)
+✍️ &nbsp;I write about data engineering and visualization on [Medium](https://ravi-rajpurohit.medium.com/) · All links at [Portfolio](https://ravi-rajpurohit.vercel.app/)
 
 ⚡ &nbsp;Hobbies — racket sports 🏸🎾🏓, music 🎸, cooking 🧑‍🍳, and thoughtful conversations.
 
-✨ &nbsp;Fun Fact — I worked as a [chef](https://drive.google.com/file/d/1VNMML9SCU_KENcqndlxAjtqMP5y43bFL/view?usp=sharing) for my university's catering department.
+✨ &nbsp;Fun Fact — I [worked as a chef](https://drive.google.com/file/d/1VNMML9SCU_KENcqndlxAjtqMP5y43bFL/view?usp=sharing) for my university.
 
 </div>
 
@@ -36,7 +36,7 @@
   <a href="https://ravi-rajpurohit.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://linktr.ee/hey_ravi" target="_blank">
+  <a href="http://ravi-rajpurohit.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=bento&logoColor=white"/>
   </a>
 </div>
