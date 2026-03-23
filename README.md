@@ -1,7 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ravi-rajpurohit-gh.ravi-rajpurohit-gh" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ravi+Rajpurohit!;I+do+Data+Engineering;I+do+Infrastructure+As+A+Code;I+do+Data+Analytics;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ravi+Rajpurohit!;I+build+data+at+scale;" />
 </h1>
 
 <h3 align="center"> · Data · Infrastructure · Analytics · </h3>
